@@ -1,0 +1,5 @@
+#Custom
+output/
+plugins/
+themes/
+*.pid
